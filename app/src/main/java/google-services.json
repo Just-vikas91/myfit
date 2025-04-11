@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425574975973",
+    "project_id": "myfit-1de4f",
+    "storage_bucket": "myfit-1de4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425574975973:android:440b54d7ac398ca043070c",
+        "android_client_info": {
+          "package_name": "edu.csueb.codepath.fitness_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bsgE6jF7ir4WkxftQIL70oxqqd9q-EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
